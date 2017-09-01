@@ -4,7 +4,8 @@ import org.junit.Test;
 
 import decorator.Mocha;
 import decorator.Whip;
-import junit.framework.Assert;
+
+import org.junit.Assert;
 
 public class TestCoffeeStore {
 	@Test
