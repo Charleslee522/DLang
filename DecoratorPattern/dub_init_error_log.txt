@@ -1,0 +1,2 @@
+20:35:36.811 [system] /usr/local/bin/dub init -n --format json --type minimal
+20:35:36.820 [stderr] The target directory already contains a '.gitignore' file. Aborting.
