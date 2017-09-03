@@ -1,0 +1,6 @@
+build_targets=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<build_targets xmlns\="org.dsource.ddt.ide.core">\r\n<target auto_enabled\="false" config\="(default)" n_enabled\="true" version2\="true"/>\r\n<target auto_enabled\="false" config\="(default)\:unittest" n_enabled\="false" version2\="true"/>\r\n</build_targets>\r\n
+dfmt_path=C\:\\Users\\charl\\AppData\\Roaming\\dub\\packages\\dfmt-0.5.0\\dfmt\\dfmt.exe
+eclipse.preferences.version=1
+format_onSave=true
+sdk_path=C\:\\D\\dmd2\\windows\\bin\\dub.exe
+toolchain_prefs.use_project_settings=true
